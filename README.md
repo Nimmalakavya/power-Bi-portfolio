@@ -32,6 +32,3 @@ Email: nkavya0311@gmail.com
 LinkedIn: linkedin.com/in/nimmala-kavya-4a3b1641a
 Location: Hyderabad, Telangana
 
----
-Files: .pbix files + dashboard screenshots uploaded here
-Paste this in your `README.md` file and click *Commit changes*.
