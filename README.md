@@ -16,13 +16,13 @@ Power BI | SQL | Python | Excel
 - KPIs: $1.57M Sales, $175K Profit, 22K Units, 21.4% California top
 - Insights: California highest profit, September max orders (494)
 - Tools: Power BI, KPI Cards, Bar & Pie Charts
-- [superstore](superstore.png)
+- ![Superstore Sales](Superstore%20sales.png)
 
 **3. HR Attrition Dashboard - 1480 Employees**
 - KPIs: 1480 Employees, 16% Attrition Rate, Avg Age 37, Avg Tenure 7 Years
 - Insights: Sales Executive highest attrition, Salary slab <5K high attrition, Education Level 3 = 39%
 - Tools: Power BI, HR Analytics
-- [hr analytics].(hr analytics.png)
+- [HR Analytics](HR%20analytics.png)
 ---
 
 🛠️ Skills
